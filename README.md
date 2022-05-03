@@ -19,4 +19,13 @@ git checkout -b #assim como no comando acima irá ser criada uma nova branch, po
 git checkout dev #agora o estado atual da branch vai ser mudada pra dev
 ```
 
+podemos também juntar uma branch a outra, muito útil quando se tem vários programadores trabalhando em branch diferentes de um mesmo sistema
+veja mais abaixo
+
+```
+git checkout master
+git merge dev
+#nesses dois útlimos comandos, o estado do repositório local foi mudado para master e logo em seguida foi feito o merge com o merge
+
+```
 ## é isso, aprendeu?
