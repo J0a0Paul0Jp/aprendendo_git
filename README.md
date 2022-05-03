@@ -25,7 +25,7 @@ veja mais abaixo
 ```
 git checkout master
 git merge dev
-#nesses dois útlimos comandos, o estado do repositório local foi mudado para master e logo em seguida foi feito o merge com o merge
+#nesses dois útlimos comandos, o estado do repositório local foi mudado para master e logo em seguida foi feito o merge com o dev
 
 ```
 ## é isso, aprendeu?
