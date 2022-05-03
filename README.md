@@ -10,7 +10,7 @@ git log #mostra os logs dos commits
 git push #subir seu repositório para um servidor remoto
 
 ```
-# Você pode também divir seu repositório para ser mais divertido trabalhar em equipe :)
+# Você pode também dividir seu repositório para ser mais divertido trabalhar em equipe :)
 Veja abaixo mais comandos:
 ```
 git branch #mostra em qual estado de branch está
