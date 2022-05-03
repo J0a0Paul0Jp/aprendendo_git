@@ -1,2 +1,1 @@
-Aprendendo git...
-No **Linux**
+tudo vai ser poeira
