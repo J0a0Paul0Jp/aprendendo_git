@@ -1,4 +1,4 @@
-#Aprendendo git...
+# Aprendendo git...
 
 Comandos mais básicos
 ```
@@ -8,4 +8,4 @@ git commit -m "uma coisa relacionada ao seu commit" #fazer commit
 git push #subir seu repositório para um servidor remoto
 ```
 
-##é isso aprendeu?
+## é isso aprendeu?
