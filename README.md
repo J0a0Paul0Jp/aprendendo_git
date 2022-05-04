@@ -8,7 +8,11 @@ git status #verifica status do commit do repositório local
 git commit -m "uma coisa relacionada ao seu commit" #fazer commit
 git log #mostra os logs dos commits
 git push #subir seu repositório para um servidor remoto
-
+- git push -u  https://github.com/J0a0Paul0Jp/aprendendo_git 
+   #subir um branch diferente do master pela primeira vez
+- git push --set-upstream origin vingadores
+   #subir um branch fora do master
+   
 ```
 # Você pode também dividir seu repositório para ser mais divertido trabalhar em equipe :)
 Veja abaixo mais comandos:
