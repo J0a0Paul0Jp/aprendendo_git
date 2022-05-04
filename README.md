@@ -30,6 +30,9 @@ veja mais abaixo
 git checkout master
 git merge dev
 #nesses dois útlimos comandos, o estado do repositório local foi mudado para master e logo em seguida foi feito o merge com o dev
-
 ```
+
+## git reset ...
+git reset -- arquivo. #se você deseja excluir um arquivo previamente adicionado do commit, você pode voltar estado anterior
+
 ## é isso, aprendeu?
