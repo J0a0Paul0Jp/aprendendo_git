@@ -39,3 +39,4 @@ git reset --soft HEAD^ #uma forma de desfazer seu ultimo commit
 git reset --hard HEAD~2 #se desfaz dos 2 últimos commit
 ```
 ## é isso, aprendeu?
+
