@@ -36,5 +36,6 @@ git merge dev
 ```
 git reset -- arquivo. #se você deseja excluir um arquivo previamente adicionado do commit, você pode voltar estado anterior
 git reset --soft HEAD^ #uma forma de desfazer seu ultimo commit
+git reset --hard HEAD~2 #se desfaz dos 2 últimos commit
 ```
 ## é isso, aprendeu?
